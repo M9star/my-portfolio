@@ -1,0 +1,98 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem;
+}
+
+header h1 {
+    margin: 0;
+}
+
+main {
+    padding: 2rem;
+}
+
+section {
+    margin-bottom: 2rem;
+}
+
+
+section h2 {
+    color: #333;
+}
+
+section ul {
+    list-style: none;
+    padding: 0;
+}
+
+section li {
+    margin-bottom: 1rem;
+}
+
+section a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem;
+    text-align: center;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
+
+#profile {
+    float: left;
+    width: 25%;
+    background-color: #fff;
+}
+
+#profile img {
+    border-radius: 25%;
+    width: 50%;
+    height: auto;
+    opacity: 1;
+    background-color: #fff;
+}
+
+#links img {
+    width: 20px;
+    height: 20px;
+}
+#links li {
+    float: left;
+    width: 2.5%;
+}
+
+#links a {
+    float: left;
+    width: 2.5%;
+}
+
+#projects {
+    margin: 0;
+    width: 50%;
+}
+
+#form {
+    margin: auto;
+    width: 50%;
+} 
