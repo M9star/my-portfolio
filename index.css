@@ -13,6 +13,20 @@ header {
 header h1 {
     margin: 0;
 }
+.link-container {
+    color: white;
+    text-align: right; /* Aligns content to the right */
+}
+
+.link-container a {
+    color: white; /* Ensures the links are white */
+    text-decoration: none; /* Optionally removes underline */
+}
+
+.link-container a:hover {
+    text-decoration: underline; /* Adds underline on hover */
+}
+
 
 main {
     padding: 2rem;
